@@ -16,7 +16,7 @@ Another advantage of token-based authentication is that it is more secure than c
 
 In summary, token-based authentication is generally considered to be more secure than cookies because tokens are not stored on the client-side, they are typically signed or encrypted, and they are stateless. This makes them more resistant to attacks such as cross-site scripting and more scalable for web applications.
 
-# Wondering How You Can Use It In Your Own Project?
+# Wondering How You Can Use JWT In Your Own Project?
 
 This is a project that has been created using React and Express.js, and it implements JWT authentication on the server side.
 
