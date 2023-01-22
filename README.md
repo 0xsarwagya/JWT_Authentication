@@ -1,4 +1,4 @@
-JWT Authentication Project!
+# JWT Authentication Project!
 
 In web applications, there are two main ways to handle authentication: cookies and tokens. Both have their own advantages and disadvantages, but when it comes to security, token-based authentication is generally considered to be the better option.
 
@@ -24,7 +24,8 @@ This is a project that has been created using React and Express.js, and it imple
 To get started, please follow these steps:
 
 * Clone the repository to your local machine
-* Run npm install to install the necessary dependencies
+* Run npm install to install the necessary dependencies in the root directory
+* Run npm install to install the necessary dependencies in the client folder
 * Run npm run dev to start the development server
 
 ## Tech Stack
